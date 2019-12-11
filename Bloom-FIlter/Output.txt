@@ -1,0 +1,10 @@
+The data has been processed line by line (1 username at a time)
+Size of data stream (m) = 2,642,941
+Size of bit array (n) =	610,649
+Optimal hash functions acc (m/n)ln2 = 3
+Bloom filter has been implemented using fnvhash1A_32, murmur3_32, hashxx hash, superfasthash, spooky_32 hash and farm_32 hash functions
+Theoretical FPR according to data is :	0.0240
+
+Spam Count =	2644849
+False Positives =	82
+Actual False Positive Rate = 	0.0000

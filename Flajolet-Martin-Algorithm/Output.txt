@@ -1,0 +1,5 @@
+The data has been processed in chunks of approx. 64 MB
+The hashing function used is 30 superfasthash, murmurhash and hashxx functions with seed in range(0,30) mapping to 32 bit unsigned integers
+The tailing 0's was calculated for Quotes in these chunks of 64 MB
+The medians of averages of groups is :	26.700000000000003
+Estimate of Unique Quotes from the Flajolet-Martin algorithm :	109018671

@@ -1,0 +1,6 @@
+Linear Regression: 40.49432999042948
+Ridge Regression: (0.1, 40.48845397408349)
+Lasso Regression: (6.799999999999992, 47.819401355483784)
+
+Most important features: [9, 51, 60, 1, 4, 54, 53, 50, 18, 13, 3, 8, 22, 61]
+Most important features: [9, 51, 60, 1, 4, 54, 53, 50, 18, 13, 3, 8, 22, 61]
